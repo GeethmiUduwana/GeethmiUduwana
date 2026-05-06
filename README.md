@@ -79,12 +79,16 @@
 
 ## 📌 DevOps Focus Areas
 
-✔️ CI/CD Pipelines (Jenkins)  
-✔️ Containerization (Docker)  
-✔️ Container Orchestration (Kubernetes)  
-✔️ Version Control (Git & GitHub)  
-✔️ Linux System Administration  
-✔️ Automation & Monitoring  
+✔️ Manual Testing: Functional, Regression & Exploratory Testing
+✔️ Test Design Techniques & Execution
+✔️ API Testing & Automation using Postman & Newman
+✔️ UI Test Automation using Playwright, Selenium & Cypress
+✔️ Performance Testing using Apache JMeter
+✔️ Defect Tracking & Reporting using Jira
+✔️ Test Documentation using Excel & Word
+✔️ CI/CD Integration for Automated Testing
+✔️ Cross-browser & Responsive Testing
+✔️ Agile Testing Methodologies (Scrum)
 
 ---
 
@@ -99,10 +103,14 @@
 
 ## 🧠 Currently Learning
 
-📦 Advanced Docker & Kubernetes  
-☁️ Cloud Platforms (AWS – upcoming)  
-⚙️ Infrastructure as Code (Terraform, Ansible)  
-📈 Monitoring & Logging Tools (Prometheus, Grafana)  
+📦 Building Test Automation Frameworks using Playwright & Selenium
+🌐 API Testing and Automation using Postman & Newman
+⚙️ Advanced Automation Techniques (Page Object Model, Data-Driven Testing)
+📈 Performance Testing using Apache JMeter
+🐞 Defect Tracking and Test Management using Jira & ClickUp
+📊 Test Documentation and Reporting using Excel & Word
+🔄 Integrating Automated Tests with CI/CD Pipelines
+📱 Cross-browser Testing & Responsive UI Validation
 
 ---
 
