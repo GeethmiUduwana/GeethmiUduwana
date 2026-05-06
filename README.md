@@ -4,11 +4,11 @@
 </p>
 
 <h3 align="center">
-🚀 3rd Year IT Undergraduate | QA & Automation | UI/UX | Project Management | DevOps Enthusiast
+🚀 3rd Year IT Undergraduate | DevOps Enthusiast | Future Cloud Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=700&lines=QA+%7C+UI%2FUX+%7C+Project+Management+%7C+DevOps;Automation+Testing+%7C+API+Testing+%7C+UI+Testing;Designing+User+Experiences+%26+Building+Quality+Software;CI%2FCD+%7C+Cloud+%7C+Scalable+Systems;Learning+%26+Growing+Every+Day+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=DevOps+Intern+Candidate;Automation+%7C+CI%2FCD+%7C+Cloud;Build+Once%2C+Deploy+Everywhere;Learning+Never+Stops+%F0%9F%94%A5" />
 </p>
 
 
@@ -16,50 +16,24 @@
 
 ## 👩‍💻 About Me
 
-🎓 **3rd Year IT Specialization Undergraduate** at **SLIIT**
-
-🧪 Passionate about **QA Testing (Manual & Automation)** with hands-on experience in **API testing and UI automation**
-
-⚙️ Interested in **UI/UX, Project Management, and DevOps practices** to build high-quality and user-friendly systems
-
-🌱 Currently improving skills in **test automation, CI/CD pipelines, and modern development workflows**
-
-🎯 **Career Goal:** QA Engineer (Automation & Manual) 
-
-💡 I enjoy ensuring **software quality, usability, and reliability through testing and automation**
-
+🎓 **3rd Year IT Specialization Undergraduate** at **SLIIT**  
+⚙️ Passionate about **DevOps, Automation, and Cloud Technologies**  
+🌱 Currently sharpening skills in **CI/CD pipelines & container orchestration**  
+🎯 **Career Goal:** DevOps Engineer / Cloud Engineer  
+💡 I love building **scalable, automated, and efficient systems**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🧪 QA & Testing Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
-  <img src="https://skillicons.dev/icons?i=selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50"/>
-  <img src="https://api.iconify.design/simple-icons:testcafe.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
-</p>
-
-### 📋 Project Management & Office Tools
-<p>
-  <img src="https://img.icons8.com/color/48/clickup.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
-</p>
-
 ### 🚀 DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,kubernetes,linux,git,github" />
 </p>
+
 ### 🌐 Web & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,nodejs,react" />
 </p>
 
 ### 📊 Databases
@@ -74,8 +48,10 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
+
+---
 
 ## 📌 DevOps Focus Areas
 
@@ -91,9 +67,17 @@
 ## 📊 GitHub Stats & Activity (Animated)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GeethmiSandunikaUduwana&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GeethmiSandunikaUduwana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeethmiSandunikaUduwana&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeethmiSandunikaUduwana&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GeethmiSandunikaUduwana&theme=tokyonight&no-frame=true&column=7" />
+</p>
 
 ---
 
