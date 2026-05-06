@@ -47,7 +47,7 @@
 ### 📋 Project Management & Office Tools
 <p>
   <img src="https://img.icons8.com/color/48/clickup.png"/>
-  <img src="https://img.icons8.com/color/48/jira.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
@@ -108,9 +108,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeethmiSandunikaUduwana&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeethmiSandunikaUduwana&theme=react-dark&area=true&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GeethmiSandunikaUduwana&theme=tokyonight&no-frame=true&column=7" />
