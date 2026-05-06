@@ -35,55 +35,27 @@
 
 ### 🧪 QA & Testing Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,selenium" />
-
-  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apache&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/TestCafe-000000?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/postman-api.png"/>
+  <img src="https://img.icons8.com/color/48/selenium-test-automation.png"/>
+  <img src="https://img.icons8.com/color/48/playwright.png"/>
+  <img src="https://img.icons8.com/color/48/cypress.png"/>
+  <img src="https://img.icons8.com/color/48/apache-jmeter.png"/>
+  <img src="https://img.icons8.com/color/48/test-passed.png"/>
+  <img src="https://img.icons8.com/color/48/jira.png"/>
 </p>
 
 ### 📋 Project Management & Office Tools
 <p>
-  <img src="https://img.shields.io/badge/ClickUp-000000?style=for-the-badge&logo=clickup&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Word-000000?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/PowerPoint-000000?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/clickup.png"/>
+  <img src="https://img.icons8.com/color/48/jira.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
 </p>
 
 ### 🚀 DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github" />
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react" />
-</p>
-
-### 📊 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 📱 Mobile & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma" />
-</p>
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 ---
 
