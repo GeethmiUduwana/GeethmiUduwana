@@ -34,23 +34,57 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 🧪 QA & Testing Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
-  <img src="https://skillicons.dev/icons?i=selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50"/>
-  <img src="https://api.iconify.design/simple-icons:testcafe.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
+<p align="center">
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://skillicons.dev/icons?i=selenium" height="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://api.iconify.design/simple-icons:testcafe.svg?color=white" width="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30"/>
+  </span>
 </p>
 
 ### 📋 Project Management & Office Tools
-<p>
-  <img src="https://img.icons8.com/color/48/clickup.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
+<p align="center">
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/clickup.png" width="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="30"/>
+  </span>
+
+  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="30"/>
+  </span>
 </p>
 
 ### 🚀 DevOps & Cloud
