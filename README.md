@@ -78,25 +78,16 @@
 
 📌 QA Focus Areas
 
- Manual Testing: Functional, Regression & Exploratory Testing
- 
- Test Design Techniques & Execution
- 
- API Testing & Automation using Postman & Newman
- 
- UI Test Automation using Playwright, Selenium & Cypress
- 
- Performance Testing using Apache JMeter
- 
- Defect Tracking & Reporting using Jira
- 
- Test Documentation using Excel & Word
- 
- CI/CD Integration for Automated Testing
- 
- Cross-browser & Responsive Testing
- 
- Agile Testing Methodologies (Scrum)
+✔️ Manual Testing: Functional, Regression & Exploratory Testing
+✔️ Test Design Techniques & Execution
+✔️ API Testing & Automation using Postman & Newman
+✔️ UI Test Automation using Playwright, Selenium & Cypress
+✔️ Performance Testing using Apache JMeter
+✔️ Defect Tracking & Reporting using Jira
+✔️ Test Documentation using Excel & Word
+✔️ CI/CD Integration for Automated Testing
+✔️ Cross-browser & Responsive Testing
+✔️ Agile Testing Methodologies (Scrum)
 
 ---
 
