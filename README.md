@@ -17,10 +17,15 @@
 ## 👩‍💻 About Me
 
 🎓 **3rd Year IT Specialization Undergraduate** at **SLIIT**
+
 🧪 Passionate about **QA Testing (Manual & Automation)** with hands-on experience in **API testing and UI automation**
+
 ⚙️ Interested in **UI/UX, Project Management, and DevOps practices** to build high-quality and user-friendly systems
+
 🌱 Currently improving skills in **test automation, CI/CD pipelines, and modern development workflows**
+
 🎯 **Career Goal:** QA Engineer (Automation & Manual) 
+
 💡 I enjoy ensuring **software quality, usability, and reliability through testing and automation**
 
 
