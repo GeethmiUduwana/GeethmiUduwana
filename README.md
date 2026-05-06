@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-📌 QA Focus Areas
+##📌 QA Focus Areas
 
 ✔️ Manual Testing: Functional, Regression & Exploratory Testing
 
@@ -117,12 +117,16 @@
 
 ---
 
-## 🧠 Currently Learning
+##🧠 Currently Learning
 
-📦 Advanced Docker & Kubernetes  
-☁️ Cloud Platforms (AWS – upcoming)  
-⚙️ Infrastructure as Code (Terraform, Ansible)  
-📈 Monitoring & Logging Tools (Prometheus, Grafana)  
+📦 Test Automation Frameworks (Playwright, Selenium)
+🌐 API Testing & Automation (Postman, Newman)
+⚙️ Advanced Test Automation Concepts (POM, Data-driven Testing)
+📈 Performance Testing (Apache JMeter)
+🐞 Bug Reporting & Test Management (Jira, ClickUp)
+📊 Test Documentation & Reporting (Excel, Word)
+🔄 CI/CD Integration for Automated Testing
+📱 Cross-browser & Responsive Testing
 
 ---
 
