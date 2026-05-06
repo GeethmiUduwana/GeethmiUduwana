@@ -34,57 +34,22 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 🧪 QA & Testing Tools
-<p align="center">
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=selenium" height="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://api.iconify.design/simple-icons:testcafe.svg?color=white" width="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30"/>
-  </span>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
 </p>
 
 ### 📋 Project Management & Office Tools
-<p align="center">
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://img.icons8.com/color/48/clickup.png" width="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="30"/>
-  </span>
-
-  <span style="background:#1f2937; padding:10px; border-radius:12px; display:inline-block;">
-    <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="30"/>
-  </span>
+<p>
+  <img src="https://img.icons8.com/color/48/clickup.png"/>
+  <img src="https://img.icons8.com/color/48/jira.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
 </p>
 
 ### 🚀 DevOps & Cloud
@@ -111,31 +76,27 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-## 📌 QA Focus Areas
+## 📌 DevOps Focus Areas
 
-✔️ Manual Testing: Functional, Regression & Exploratory Testing
-
-✔️ Test Design Techniques & Execution
-
-✔️ API Testing & Automation using Postman & Newman
-
-✔️ UI Test Automation using Playwright, Selenium & Cypress
-
-✔️ Performance Testing using Apache JMeter
-
-✔️ Defect Tracking & Reporting using Jira
-
-✔️ Test Documentation using Excel & Word
-
-✔️ CI/CD Integration for Automated Testing
-
-✔️ Cross-browser & Responsive Testing
-
-✔️ Agile Testing Methodologies (Scrum)
+✔️ CI/CD Pipelines (Jenkins)  
+✔️ Containerization (Docker)  
+✔️ Container Orchestration (Kubernetes)  
+✔️ Version Control (Git & GitHub)  
+✔️ Linux System Administration  
+✔️ Automation & Monitoring  
 
 ---
 
 ## 📊 GitHub Stats & Activity (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeethmiSandunikaUduwana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeethmiSandunikaUduwana&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeethmiSandunikaUduwana&theme=react-dark&area=true&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GeethmiSandunikaUduwana&theme=tokyonight&no-frame=true&column=7" />
@@ -145,21 +106,10 @@
 
 ## 🧠 Currently Learning
 
-📦 Test Automation Frameworks (Playwright, Selenium)
-
-🌐 API Testing & Automation (Postman, Newman)
-
-⚙️ Advanced Test Automation Concepts (POM, Data-driven Testing)
-
-📈 Performance Testing (Apache JMeter)
-
-🐞 Bug Reporting & Test Management (Jira, ClickUp)
-
-📊 Test Documentation & Reporting (Excel, Word)
-
-🔄 CI/CD Integration for Automated Testing
-
-📱 Cross-browser & Responsive Testing
+📦 Advanced Docker & Kubernetes  
+☁️ Cloud Platforms (AWS – upcoming)  
+⚙️ Infrastructure as Code (Terraform, Ansible)  
+📈 Monitoring & Logging Tools (Prometheus, Grafana)  
 
 ---
 
