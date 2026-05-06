@@ -36,20 +36,18 @@
 ### 🧪 QA & Testing Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postman,selenium" />
-  <img src="https://cdn.simpleicons.org/playwright/45ba4b" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/testcafe/222222" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/cypress/17202C" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48"/>
 </p>
 
 ### 📋 Project Management & Office Tools
 <p>
-  <img src="https://cdn.simpleicons.org/clickup/7B68EE" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48"/>
 </p>
 
 ### 🚀 DevOps & Cloud
