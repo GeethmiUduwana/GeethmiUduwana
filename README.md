@@ -57,7 +57,25 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github" />
 </p>
----
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react" />
+</p>
+
+### 📊 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 📱 Mobile & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+</p>
 
 ## 📌 DevOps Focus Areas
 
