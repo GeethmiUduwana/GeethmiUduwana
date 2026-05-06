@@ -4,11 +4,11 @@
 </p>
 
 <h3 align="center">
-🚀 3rd Year IT Undergraduate | DevOps Enthusiast | Future Cloud Engineer
+🚀 3rd Year IT Undergraduate | QA & Automation | UI/UX | Project Management | DevOps Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=DevOps+Intern+Candidate;Automation+%7C+CI%2FCD+%7C+Cloud;Build+Once%2C+Deploy+Everywhere;Learning+Never+Stops+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=700&lines=QA+%7C+UI%2FUX+%7C+Project+Management+%7C+DevOps;Automation+Testing+%7C+API+Testing+%7C+UI+Testing;Designing+User+Experiences+%26+Building+Quality+Software;CI%2FCD+%7C+Cloud+%7C+Scalable+Systems;Learning+%26+Growing+Every+Day+%F0%9F%94%A5" />
 </p>
 
 
