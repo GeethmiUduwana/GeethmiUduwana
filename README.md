@@ -76,14 +76,18 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-## 📌 DevOps Focus Areas
+📌 QA Focus Areas
 
-✔️ CI/CD Pipelines (Jenkins)  
-✔️ Containerization (Docker)  
-✔️ Container Orchestration (Kubernetes)  
-✔️ Version Control (Git & GitHub)  
-✔️ Linux System Administration  
-✔️ Automation & Monitoring  
+ Manual Testing: Functional, Regression & Exploratory Testing
+ Test Design Techniques & Execution
+ API Testing & Automation using Postman & Newman
+ UI Test Automation using Playwright, Selenium & Cypress
+ Performance Testing using Apache JMeter
+ Defect Tracking & Reporting using Jira
+ Test Documentation using Excel & Word
+ CI/CD Integration for Automated Testing
+ Cross-browser & Responsive Testing
+ Agile Testing Methodologies (Scrum)
 
 ---
 
