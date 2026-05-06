@@ -36,20 +36,20 @@
 ### 🧪 QA & Testing Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postman,selenium" />
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestCafe-2C2C2C?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bug%20Reporting-Jira-blue?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/playwright/45ba4b" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/testcafe/222222" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/cypress/17202C" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48"/>
 </p>
 
 ### 📋 Project Management & Office Tools
 <p>
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/clickup/7B68EE" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48"/>
 </p>
 
 ### 🚀 DevOps & Cloud
@@ -59,7 +59,7 @@
 
 ### 🌐 Web & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react" />
 </p>
 
 ### 📊 Databases
