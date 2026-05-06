@@ -93,6 +93,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GeethmiSandunikaUduwana&theme=tokyonight&no-frame=true&column=7" />
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GeethmiSandunikaUduwana&theme=react-dark&hide_border=true"/>
 
 ---
 
