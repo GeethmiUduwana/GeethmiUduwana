@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-📌 QA Focus Areas
+## 📌 QA Focus Areas
 
 ✔️ Manual Testing: Functional, Regression & Exploratory Testing
 
@@ -117,7 +117,7 @@
 
 ---
 
-🧠 Currently Learning
+## 🧠 Currently Learning
 
 📦 Test Automation Frameworks (Playwright, Selenium)
 
