@@ -37,28 +37,28 @@
 <p>
   <img src="https://skillicons.dev/icons?i=postman,selenium" />
 
-  <img src="https://cdn.simpleicons.org/playwright/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
   
-  <img src="https://cdn.simpleicons.org/cypress/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white"/>
   
-  <img src="https://cdn.simpleicons.org/apachejmeter/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apache&logoColor=white"/>
   
-  <img src="https://cdn.simpleicons.org/testcafe/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/TestCafe-000000?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
   
-  <img src="https://cdn.simpleicons.org/jira/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ### 📋 Project Management & Office Tools
 <p>
-  <img src="https://cdn.simpleicons.org/clickup/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/ClickUp-000000?style=for-the-badge&logo=clickup&logoColor=white"/>
   
-  <img src="https://cdn.simpleicons.org/jira/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white"/>
   
-  <img src="https://cdn.simpleicons.org/microsoftexcel/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   
-  <img src="https://cdn.simpleicons.org/microsoftword/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Word-000000?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
   
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/white" width="48" style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/PowerPoint-000000?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
 
 ### 🚀 DevOps & Cloud
