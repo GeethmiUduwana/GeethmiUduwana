@@ -57,6 +57,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github" />
 </p>
+
 ### 🌐 Web & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react" />
@@ -77,7 +78,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-## 📌 DevOps Focus Areas
+## 📌 Testing Focus Areas
 
 ✔️ Manual Testing: Functional, Regression & Exploratory Testing
 
