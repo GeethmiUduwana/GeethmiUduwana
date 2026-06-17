@@ -111,13 +111,11 @@
 
 ## 🧠 Currently Learning
 
-📦 Building Test Automation Frameworks using Playwright & Selenium
+📦 Building Test Automation Frameworks using Playwright
 
 🌐 API Testing and Automation using Postman & Newman
 
 ⚙️ Advanced Automation Techniques (Page Object Model, Data-Driven Testing)
-
-📈 Performance Testing using Apache JMeter
 
 🐞 Defect Tracking and Test Management using Jira & ClickUp
 
