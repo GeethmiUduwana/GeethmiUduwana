@@ -1,152 +1,247 @@
-<!-- Unique Animated Header -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:162447&height=280&section=header&text=✨%20Geethmi%20Sandunika%20Uduwana%20✨&fontSize=45&fontColor=00FFE1&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h3 align="center">
-🚀 3rd Year IT Undergraduate | QA & Automation | UI/UX | Project Management | DevOps Enthusiast
+🚀 Third Year IT Undergraduate | Data Analytics | QA | Full Stack | UI/UX | DevOps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=700&lines=QA+%7C+UI%2FUX+%7C+Project+Management+%7C+DevOps;Automation+Testing+%7C+API+Testing+%7C+UI+Testing;Designing+User+Experiences+%26+Building+Quality+Software;CI%2FCD+%7C+Cloud+%7C+Scalable+Systems;Learning+%26+Growing+Every+Day+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+Business+Intelligence+%7C+Power+BI;Software+Quality+Assurance+%7C+Automation+Testing;Full+Stack+Development+%7C+React+%7C+Spring+Boot;UI%2FUX+Design+%7C+Mobile+Development;DevOps+%7C+Docker+%7C+GitHub+%7C+CI%2FCD;Always+Learning+New+Technologies+🚀" />
 </p>
-
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 **3rd Year IT Specialization Undergraduate** at **SLIIT**
+🎓 Third-Year Bachelor of Information Technology Undergraduate at **SLIIT**
 
-🧪 Passionate about **QA Testing (Manual & Automation)** with hands-on experience in **API testing and UI automation**
+📊 Passionate about **Data Analytics** and **Business Intelligence** using **Excel, Power BI, SQL, and Python**
 
-⚙️ Interested in **UI/UX, Project Management, and DevOps practices** to build high-quality and user-friendly systems
+🧪 Experienced in **Software Quality Assurance** including **Manual Testing, Automation Testing, API Testing, and Test Documentation**
 
-🌱 Currently improving skills in **test automation, CI/CD pipelines, and modern development workflows**
+💻 Interested in **Full Stack Development** using **React, Node.js, Spring Boot, and MERN Stack**
 
-🎯 **Career Goal:** QA Engineer (Automation & Manual) 
+🎨 Enjoy designing user-friendly interfaces with **Figma** and developing Android applications using **Kotlin**
 
-💡 I enjoy ensuring **software quality, usability, and reliability through testing and automation**
+⚙️ Passionate about **DevOps** practices including **Git, GitHub, Docker, Jenkins, and CI/CD**
 
+🌱 Currently learning **Data Science, Machine Learning, Cloud Computing, and Advanced Automation Testing**
 
----
+🎯 Career Interests
 
-## 🛠️ Tech Stack & Tools
-
-### 🧪 QA & Testing Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="50"/>
-  <img src="https://api.iconify.design/simple-icons:testcafe.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
-</p>
-
-### 📋 Project Management & Office Tools
-<p>
-  <img src="https://img.icons8.com/color/48/clickup.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
-</p>
-
-### 🚀 DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github" />
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react" />
-</p>
-
-### 📊 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 📱 Mobile & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma" />
-</p>
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
-</p>
-
-## 📌 Testing Focus Areas
-
-✔️ Manual Testing: Functional, Regression & Exploratory Testing
-
-✔️ Test Design Techniques & Execution
-
-✔️ API Testing & Automation using Postman & Newman
-
-✔️ UI Test Automation using Playwright, Selenium & Cypress
-
-✔️ Performance Testing using Apache JMeter
-
-✔️ Defect Tracking & Reporting using Jira
-
-✔️ Test Documentation using Excel & Word
-
-✔️ CI/CD Integration for Automated Testing
-
-✔️ Cross-browser & Responsive Testing
-
-✔️ Agile Testing Methodologies (Scrum)
+- 📊 Data Analyst
+- 📈 Business Intelligence Developer
+- 🧪 QA Engineer
+- 💻 Full Stack Developer
 
 ---
 
-## 📊 GitHub Stats & Activity (Animated)
+# 🛠 Tech Stack
+
+## 📊 Data Analytics
+
+<p>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+</p>
+
+---
+
+## 🧪 Software Quality Assurance
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48"/>
+<img src="https://api.iconify.design/simple-icons:testcafe.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48"/>
+</p>
+
+---
+
+## 💻 Full Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,spring,html,css,bootstrap,tailwind"/>
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+---
+
+## 📱 Mobile & UI/UX
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma"/>
+</p>
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,linux,vscode"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Olist E-Commerce Data Analysis
+
+- Excel Data Cleaning
+- Power BI Dashboard
+- KPI Dashboard
+- Data Visualization
+- Business Insights
+- DAX Measures
+- Power Query
+- Git & GitHub
+
+---
+
+### 🧪 QA & Automation Testing
+
+- Playwright Automation
+- Cypress Automation
+- TestCafe Automation
+- API Testing with Postman
+- OrangeHRM Manual Testing
+- Jira Defect Tracking
+
+---
+
+### 💻 Full Stack Development
+
+- Smart Campus Management System
+- UniFound
+- EcoCycle
+- MedCore
+- Eventura
+
+---
+
+### 📱 UI/UX & Mobile Development
+
+- Doctor Appointment UI
+- Habit Tracker
+- Movie Application
+
+---
+
+# 🎯 Core Skills
+
+✔ Data Analytics
+
+✔ Business Intelligence
+
+✔ Dashboard Development
+
+✔ Data Cleaning
+
+✔ Data Visualization
+
+✔ SQL
+
+✔ Excel
+
+✔ Power BI
+
+✔ Python
+
+✔ Software Testing
+
+✔ Automation Testing
+
+✔ API Testing
+
+✔ Full Stack Development
+
+✔ UI/UX Design
+
+✔ Mobile Development
+
+✔ Git & GitHub
+
+✔ Docker
+
+✔ CI/CD
+
+---
+
+# 🌱 Currently Learning
+
+- 📊 Advanced Power BI
+- 🐍 Python for Data Analysis
+- 🤖 Machine Learning
+- 📈 Data Science
+- 🧪 Advanced Automation Testing
+- ☁ Cloud Computing
+- ⚙ DevOps
+- 🚀 CI/CD Pipelines
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GeethmiSandunikaUduwana&theme=tokyonight&no-frame=true&column=7" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GeethmiUduwana&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeethmiUduwana&layout=compact&theme=tokyonight"/>
+
 </p>
 
-
----
-
-## 🧠 Currently Learning
-
-📦 Building Test Automation Frameworks using Playwright
-
-🌐 API Testing and Automation using Postman & Newman
-
-⚙️ Advanced Automation Techniques (Page Object Model, Data-Driven Testing)
-
-🐞 Defect Tracking and Test Management using Jira & ClickUp
-
-📊 Test Documentation and Reporting using Excel & Word
-
-🔄 Integrating Automated Tests with CI/CD Pipelines
-
-📱 Cross-browser Testing & Responsive UI Validation
-
----
-
-## 🤝 Let’s Connect
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeethmiUduwana&theme=tokyonight"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/geethmi-uduwana-68a20531b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GeethmiSandunikaUduwana">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=GeethmiUduwana&theme=tokyonight&no-frame=true&column=7"/>
 </p>
 
 ---
 
+# 📫 Connect With Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=120&section=footer"/>
+
+<a href="mailto:geethmiuduwana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/geethmi-uduwana-68a20531b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/GeethmiUduwana">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://geethmiuduwana.github.io/GeethmiUduwana-s-CV/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 </p>
 
 <p align="center">
-✨ <i>“Automate the boring. Scale the impossible.”</i> ✨
+✨ <b>Turning Data into Insights • Building Quality Software • Creating Better User Experiences</b> 🚀
 </p>
