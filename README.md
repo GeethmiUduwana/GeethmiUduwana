@@ -8,9 +8,7 @@
 🚀 Third Year IT Undergraduate | Data Analytics | QA | Full Stack | UI/UX | DevOps
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+Business+Intelligence+%7C+Power+BI;Software+Quality+Assurance+%7C+Automation+Testing;Full+Stack+Development+%7C+React+%7C+Spring+Boot;UI%2FUX+Design+%7C+Mobile+Development;DevOps+%7C+Docker+%7C+GitHub+%7C+CI%2FCD;Always+Learning+New+Technologies+🚀" />
-</p>
+
 
 ---
 
