@@ -116,8 +116,8 @@
 - Cypress Automation
 - TestCafe Automation
 - API Testing with Postman
-- OrangeHRM Manual Testing
-- Jira Defect Tracking
+- Manual Testing
+
 
 ---
 
