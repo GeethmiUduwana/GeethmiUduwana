@@ -98,18 +98,6 @@
 
 # 🚀 Featured Projects
 
-### 📊 Olist E-Commerce Data Analysis
-
-- Excel Data Cleaning
-- Power BI Dashboard
-- KPI Dashboard
-- Data Visualization
-- Business Insights
-- DAX Measures
-- Power Query
-- Git & GitHub
-
----
 
 ### 🧪 QA & Automation Testing
 
@@ -140,7 +128,32 @@
 
 ---
 
+### 📊 Olist E-Commerce Data Analysis
+
+- Excel Data Cleaning
+- Power BI Dashboard
+- KPI Dashboard
+- Data Visualization
+- Business Insights
+- DAX Measures
+- Power Query
+- Git & GitHub
+
+---
+
 # 🎯 Core Skills
+
+✔ Software Testing
+
+✔ Automation Testing
+
+✔ API Testing
+
+✔ Full Stack Development
+
+✔ UI/UX Design
+
+✔ Mobile Development
 
 ✔ Data Analytics
 
@@ -160,18 +173,6 @@
 
 ✔ Python
 
-✔ Software Testing
-
-✔ Automation Testing
-
-✔ API Testing
-
-✔ Full Stack Development
-
-✔ UI/UX Design
-
-✔ Mobile Development
-
 ✔ Git & GitHub
 
 ✔ Docker
@@ -182,14 +183,15 @@
 
 # 🌱 Currently Learning
 
+- 🧪 Advanced Automation Testing
+- 🧪 Advanced Manual Testing
+- ☁ Cloud Computing
+- ⚙ DevOps
+- 🚀 CI/CD Pipelines
 - 📊 Advanced Power BI
 - 🐍 Python for Data Analysis
 - 🤖 Machine Learning
 - 📈 Data Science
-- 🧪 Advanced Automation Testing
-- ☁ Cloud Computing
-- ⚙ DevOps
-- 🚀 CI/CD Pipelines
 
 ---
 
