@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-🚀 Third Year IT Undergraduate | Data Analytics | QA | Full Stack | UI/UX | DevOps
+🚀 Third Year IT Undergraduate | QA  | Data Analytics | Full Stack | UI/UX | DevOps
 </h3>
 
 
@@ -16,9 +16,9 @@
 
 🎓 Third-Year Bachelor of Information Technology Undergraduate at **SLIIT**
 
-📊 Passionate about **Data Analytics** and **Business Intelligence** using **Excel, Power BI, SQL, and Python**
-
 🧪 Experienced in **Software Quality Assurance** including **Manual Testing, Automation Testing, API Testing, and Test Documentation**
+
+📊 Passionate about **Data Analytics** and **Business Intelligence** using **Excel, Power BI, SQL, and Python**
 
 💻 Interested in **Full Stack Development** using **React, Node.js, Spring Boot, and MERN Stack**
 
@@ -30,26 +30,15 @@
 
 🎯 Career Interests
 
+- 🧪 QA Engineer
 - 📊 Data Analyst
 - 📈 Business Intelligence Developer
-- 🧪 QA Engineer
 - 💻 Full Stack Developer
 
 ---
 
 # 🛠 Tech Stack
 
-## 📊 Data Analytics
-
-<p>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-<img src="https://img.icons8.com/color/48/power-bi.png"/>
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
-</p>
-
----
 
 ## 🧪 Software Quality Assurance
 
@@ -59,6 +48,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="48"/>
 <img src="https://api.iconify.design/simple-icons:testcafe.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48"/>
+</p>
+
+---
+
+## 📊 Data Analytics
+
+<p>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
 </p>
 
 ---
