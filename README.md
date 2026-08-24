@@ -195,25 +195,7 @@
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GeethmiUduwana&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeethmiUduwana&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GeethmiUduwana&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GeethmiUduwana&theme=tokyonight&no-frame=true&column=7"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
