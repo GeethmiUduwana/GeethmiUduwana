@@ -143,41 +143,7 @@
 
 # 🎯 Core Skills
 
-✔ Software Testing
-
-✔ Automation Testing
-
-✔ API Testing
-
-✔ Full Stack Development
-
-✔ UI/UX Design
-
-✔ Mobile Development
-
-✔ Data Analytics
-
-✔ Business Intelligence
-
-✔ Dashboard Development
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ SQL
-
-✔ Excel
-
-✔ Power BI
-
-✔ Python
-
-✔ Git & GitHub
-
-✔ Docker
-
-✔ CI/CD
+✔ Software Testing✔ Automation Testing✔ API Testing✔ Full Stack Development✔ UI/UX Design✔ Mobile Development✔ Data Analytics✔ Business Intelligence✔ Dashboard Development✔ Data Cleaning✔ Data Visualization✔ SQL✔ Excel✔ Power BI✔ Python✔ Git & GitHub✔ Docker✔ CI/CD
 
 ---
 
