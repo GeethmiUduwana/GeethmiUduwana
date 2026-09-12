@@ -149,15 +149,7 @@
 
 # 🌱 Currently Learning
 
-- 🧪 Advanced Automation Testing
-- 🧪 Advanced Manual Testing
-- ☁ Cloud Computing
-- ⚙ DevOps
-- 🚀 CI/CD Pipelines
-- 📊 Advanced Power BI
-- 🐍 Python for Data Analysis
-- 🤖 Machine Learning
-- 📈 Data Science
+- 🧪 Advanced Automation Testing🧪 Advanced Manual Testing☁ Cloud Computing⚙ DevOps🚀 CI/CD Pipelines📊 Advanced Power BI🐍 Python for Data Analysis🤖 Machine Learning📈 Data Science
 
 ---
 
