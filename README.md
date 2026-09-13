@@ -130,7 +130,14 @@
 
 ### 📊 Olist E-Commerce Data Analysis
 
-- Excel Data Cleaning- Power BI Dashboard- KPI Dashboard- Data Visualization- Business Insights- DAX Measures- Power Query- Git & GitHub
+- Excel Data Cleaning
+- Power BI Dashboard
+- KPI Dashboard
+- Data Visualization
+- Business Insights
+- DAX Measures
+- Power Query
+- Git & GitHub
 
 ---
 
